@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: rollouts-demo-service
+  name: rollouts-demo-service-blue
 spec:
   ports:
   - port: 80
