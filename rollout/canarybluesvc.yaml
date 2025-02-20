@@ -9,7 +9,7 @@ spec:
     targetPort: 8080
     protocol: TCP
     name: http
-    nodePort: 33500
+    nodePort: 32250
   selector:
     app: example
   type: NodePort
